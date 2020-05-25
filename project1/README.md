@@ -1,3 +1,6 @@
+# README
+The following is the instructions given to me for this project (all of these files were originally obtained from https://docs.cs50.net/mobile/2020/x/projects/1/project1.html). 
+
 # Project 1 - Pomodoro Timer
 For this project, you'll be implementing a Pomodoro timer. This timer will help
 people trying to use the [Pomodoro Technique](https://en.wikipedia.org/wiki/Pomodoro_Technique).
